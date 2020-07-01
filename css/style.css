@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 1280px;
+    height: 600px;
+    background: #ccc;
+    position: relative;
+    margin: 40px auto;
+}
