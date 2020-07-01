@@ -18,7 +18,7 @@
 }
 
 
-@media only screen and (min-width: 1280){
+@media only screen and (min-width: 1280px){
     .main{
         width: 98%;
         margin-left: 1%;
