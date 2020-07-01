@@ -17,10 +17,29 @@
     padding: 10px 0;
 }
 
+.link-click{
+    padding: 10px 20px;
+    background: #ff3030;
+    color: #fff;
+    font-family: "Tahoma";
+    position: relative;
+    top: 40px;
+    border-radius: 4px;
+    box-shadow:0 2px 1px #999;
+    text-decoration: none;
+}
 
-@media only screen and (min-width: 1280px){
+@media only screen and (max-width: 720px){
     .main{
-        width: 98%;
-        margin-left: 1%;
+        width: 96%;
+        margin-left: 2%;
+        color: #fff;
+        background:#ff3030
+    }
+    
+    .link-click{
+        background: #fff;
+        color: #333;
+        font-weight: bold;
     }
 }
